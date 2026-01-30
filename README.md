@@ -8,11 +8,11 @@ Sou um desenvolvedor focado no ecossistema **Java** e **Web**, atualmente atuand
 
 ### 🚀 Sobre mim
 
-- 🏢 Atualmente trabalhando no **TCM** com **Java**, **Groovy** e **PostgreSQL**.
-- 🎓 Estudante de **Sistemas de Informação**.
-- 📊 **Foco em Dados:** Aprofundo meus estudos em análise, tratamento e extração de dados para gerar insights e automações eficientes.
-- 🛠️ Experiência com integração de APIs de autenticação e desenvolvimento Front-end com **Angular**.
-- 🐍 Desenvolvimento de ferramentas de ETL e extração com **Python** (Pandas, PyPDF2, Regex).
+* 🏢 Atualmente trabalhando no **TCM** com **Java**, **Groovy** e **PostgreSQL**.
+* 🎓 Estudante de **Sistemas de Informação**.
+* 📊 **Foco em Dados:** Aprofundo meus estudos em análise, tratamento e extração de dados para gerar insights e automações eficientes.
+* 🛠️ Experiência com integração de APIs de autenticação e desenvolvimento Front-end com **Angular**.
+* 🐍 Desenvolvimento de ferramentas de ETL e extração com **Python** (Pandas, PyPDF2, Regex).
 
 ---
 
@@ -33,16 +33,18 @@ Sou um desenvolvedor focado no ecossistema **Java** e **Web**, atualmente atuand
 
 ### 📊 Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=ruancarlosms&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ruancarlosms&layout=compact&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ruancarlosms&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ruancarlosms&theme=dark&hide_border=true" alt="GitHub Streak" height="150" />
+</div>
 
 ---
 
 ### 📂 Projetos em Destaque
 
-- **[Extrator de Dados Jurídicos](https://github.com/ruancarlosms/extracao-dados-juridicos):** Meu principal projeto focado em dados, realizando o processamento e análise de documentos públicos do TCM.
-- **[Game Pixel Dash](https://github.com/ruancarlosms/game_pixel_dash):** Exploração de lógica e desenvolvimento de jogos com Pygame Zero.
-- **[DSList](https://github.com/ruancarlosms/dslist):** Aplicação para gestão de listas de jogos utilizando Java e Spring Boot.
+* **[Extrator de Dados Jurídicos](https://github.com/ruancarlosms/extracao-dados-juridicos):** Ferramenta em Python para processamento e análise de documentos públicos do TCM.
+* **[Game Pixel Dash](https://github.com/ruancarlosms/game_pixel_dash):** Desenvolvimento de jogo plataforma explorando lógica com Pygame Zero.
+* **[DSList](https://github.com/ruancarlosms/dslist):** Sistema de gestão de listas de jogos desenvolvido com Java e Spring Boot.
 
 ---
 
