@@ -1,16 +1,56 @@
-## Hi there 👋
+# Olá, eu sou o Ruan Carlos! 👋
 
-<!--
-**ruancarlosms/ruancarlosms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full Stack Developer | Especialista em Automação e Dados
 
-Here are some ideas to get you started:
+Sou um desenvolvedor focado no ecossistema **Java** e **Web**, atualmente atuando como Full Stack no TCM. Além da construção de sistemas robustos, dedico-me ao **aprofundamento constante na área de Dados**, utilizando Python para transformar informações brutas em inteligência.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Sobre mim
+
+- 🏢 Atualmente trabalhando no **TCM** com **Java**, **Groovy** e **PostgreSQL**.
+- 🎓 Estudante de **Sistemas de Informação**.
+- 📊 **Foco em Dados:** Aprofundo meus estudos em análise, tratamento e extração de dados para gerar insights e automações eficientes.
+- 🛠️ Experiência com integração de APIs de autenticação e desenvolvimento Front-end com **Angular**.
+- 🐍 Desenvolvimento de ferramentas de ETL e extração com **Python** (Pandas, PyPDF2, Regex).
+
+---
+
+### 🛠️ Tecnologias e Ferramentas
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/groovy/groovy-original.svg" height="40" alt="groovy logo"  />
+</div>
+
+---
+
+### 📊 Estatísticas do GitHub
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=ruancarlosms&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ruancarlosms&layout=compact&theme=radical)
+
+---
+
+### 📂 Projetos em Destaque
+
+- **[Extrator de Dados Jurídicos](https://github.com/ruancarlosms/extracao-dados-juridicos):** Meu principal projeto focado em dados, realizando o processamento e análise de documentos públicos do TCM.
+- **[Game Pixel Dash](https://github.com/ruancarlosms/game_pixel_dash):** Exploração de lógica e desenvolvimento de jogos com Pygame Zero.
+- **[DSList](https://github.com/ruancarlosms/dslist):** Aplicação para gestão de listas de jogos utilizando Java e Spring Boot.
+
+---
+
+### 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruan-carlos-2395262b0/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ruancarlos2703@gmail.com)
+
+---
+
+> "Transformando lógica em soluções e dados em conhecimento."
