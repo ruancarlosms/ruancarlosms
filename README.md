@@ -54,5 +54,3 @@ Sou um desenvolvedor focado no ecossistema **Java** e **Web**, atualmente atuand
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ruancarlos2703@gmail.com)
 
 ---
-
-> "Transformando lógica em soluções e dados em conhecimento."
