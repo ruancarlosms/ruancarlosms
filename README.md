@@ -46,14 +46,6 @@ Trabalho com Engenharia de Dados, projetando e implementando Data Warehouses dim
 
 ---
 
-### 📊 Estatísticas do GitHub
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ruancarlosms&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ruancarlosms&theme=dark&hide_border=true" alt="GitHub Streak" height="150" />
-</div>
-
----
-
 ### 📂 Projetos em Destaque
 
 * **[Extrator de Dados Jurídicos](https://github.com/ruancarlosms/extracao-dados-juridicos):** Script em Python (Pandas, PyPDF2) que converte processos jurídicos em PDF não estruturado para CSV, viabilizando análise posterior.
